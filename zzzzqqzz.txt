@@ -1,6 +1,6 @@
-s_dwEntityList_Offset=0x1801EF8
-viewmatrix_Offset=0x180C0F0
-localplayer_Offset=0x16B9398
+s_dwEntityList_Offset=0x17ADAE0
+viewmatrix_Offset=0x180C0E0
+localplayer_Offset=0x16B9388
 s_dwPawnHealth_Offset=0x32C
 s_dwPlayerPawn_Offset=0x7BC
 s_dwSanitizedName_Offset=0x720
